@@ -1,0 +1,411 @@
+env,id,event,station,q_len,bike_count
+0.38697226384132344,1,has arrived at station ,A,0,5 bikes
+1.1336081898341615,2,has arrived at station ,A,0,4 bikes
+1.556529300023573,4,has arrived at station ,A,0,2 bikes
+1.8669777318902117,6,has arrived at station ,B,0,5 bikes
+1.5249224939113988,3,has arrived at station ,A,0,3 bikes
+1.8316965159790086,5,has arrived at station ,A,0,1 bikes
+4.7438040177186735,13,has arrived at station ,B,0,5 bikes
+4.1576102145237215,7,has arrived at station ,A,0,2 bikes
+5.078674578267292,15,has arrived at station ,B,0,4 bikes
+4.286977457434506,8,has arrived at station ,A,0,1 bikes
+4.376462840745697,9,has arrived at station ,A,0,0 bikes
+4.562178891465352,10,has arrived at station ,A,1,0 bikes
+4.700696679187875,11,has arrived at station ,A,2,0 bikes
+16.291463800558514,41,has arrived at station ,B,0,10 bikes
+20.381743838284116,49,has arrived at station ,B,0,10 bikes
+22.154309537342225,51,has arrived at station ,B,0,9 bikes
+24.37597741175743,55,has arrived at station ,B,0,9 bikes
+26.669781013565654,63,has arrived at station ,B,0,9 bikes
+4.7278637806265165,12,has arrived at station ,A,3,0 bikes
+29.47837125995121,72,has arrived at station ,B,0,9 bikes
+4.900942921058082,14,has arrived at station ,A,4,0 bikes
+5.561785400886981,16,has arrived at station ,A,5,0 bikes
+6.407411179507682,17,has arrived at station ,A,5,0 bikes
+7.035542354256336,18,has arrived at station ,A,6,0 bikes
+38.27478821250586,93,has arrived at station ,B,0,9 bikes
+7.178497145143866,20,has arrived at station ,A,8,0 bikes
+7.173964351254196,19,has arrived at station ,A,7,0 bikes
+7.330100425003404,21,has arrived at station ,A,9,0 bikes
+7.605229162762369,22,has arrived at station ,A,10,0 bikes
+45.04064579332773,111,has arrived at station ,B,0,8 bikes
+7.820325315494794,23,has arrived at station ,A,11,0 bikes
+8.177668539036395,25,has arrived at station ,A,13,0 bikes
+7.9076493793208416,24,has arrived at station ,A,12,0 bikes
+8.248049386260453,26,has arrived at station ,A,14,0 bikes
+55.63481382751802,124,has arrived at station ,B,0,10 bikes
+60.13223807813126,131,has arrived at station ,B,0,10 bikes
+8.341613208477257,27,has arrived at station ,A,14,0 bikes
+76.18217116108201,164,has arrived at station ,B,0,10 bikes
+9.546469336466716,28,has arrived at station ,A,15,0 bikes
+81.60507267590886,182,has arrived at station ,B,0,9 bikes
+81.72766741721615,183,has arrived at station ,B,0,8 bikes
+10.11277103284044,29,has arrived at station ,A,16,0 bikes
+86.41731352853256,193,has arrived at station ,B,0,9 bikes
+90.57147899637918,200,has arrived at station ,B,0,9 bikes
+11.067162149637094,30,has arrived at station ,A,16,0 bikes
+11.494344596224607,31,has arrived at station ,A,17,0 bikes
+11.654244802564884,32,has arrived at station ,A,18,0 bikes
+0.3344741608377385,1,has arrived at station ,A,0,5 bikes
+0.3344741608377385,1,has rented bike at station ,A,0,4 bikes
+3.117488117091253,1,has returned bike at station ,A,0,1 bikes
+1.061014459474666,3,has arrived at station ,A,0,4 bikes
+1.061014459474666,3,has rented bike at station ,A,0,3 bikes
+3.7351240351371877,3,has returned bike at station ,A,0,1 bikes
+1.4303970349140336,4,has arrived at station ,A,0,3 bikes
+1.4303970349140336,4,has rented bike at station ,A,0,2 bikes
+3.886441341785961,4,has returned bike at station ,A,0,1 bikes
+0.3535072355584381,2,has arrived at station ,B,0,5 bikes
+0.3535072355584381,2,has rented bike at station ,B,0,4 bikes
+4.206566529783456,2,has returned bike at station ,A,0,0 bikes
+1.8742398685983608,5,has arrived at station ,B,0,4 bikes
+1.8742398685983608,5,has rented bike at station ,B,0,3 bikes
+5.043661766463152,5,has returned bike at station ,A,0,0 bikes
+2.353849393540934,6,has arrived at station ,A,0,2 bikes
+2.353849393540934,6,has rented bike at station ,A,0,1 bikes
+5.855818364294143,6,has returned bike at station ,B,0,2 bikes
+3.0184811646238003,8,has arrived at station ,A,0,1 bikes
+3.0184811646238003,8,has rented bike at station ,A,0,0 bikes
+5.940018966727709,8,has returned bike at station ,B,0,3 bikes
+2.6955202958365514,7,has arrived at station ,B,0,3 bikes
+2.6955202958365514,7,has rented bike at station ,B,0,2 bikes
+6.031022194173163,7,has returned bike at station ,A,4,0 bikes
+3.9394830507312055,11,has arrived at station ,A,0,1 bikes
+3.9394830507312055,11,has rented bike at station ,A,0,0 bikes
+7.441475828637571,11,has returned bike at station ,A,8,0 bikes
+3.7823981880844486,10,has arrived at station ,A,0,1 bikes
+3.7823981880844486,10,has rented bike at station ,A,0,0 bikes
+7.722301375086484,10,has returned bike at station ,B,0,4 bikes
+4.915848517239052,14,has arrived at station ,B,0,2 bikes
+4.915848517239052,14,has rented bike at station ,B,0,1 bikes
+7.895183632659569,14,has returned bike at station ,B,0,5 bikes
+4.0721822756150114,12,has arrived at station ,A,0,0 bikes
+4.206566529783456,12,has rented bike at station ,A,0,0 bikes
+8.048531722327098,12,has returned bike at station ,A,7,0 bikes
+3.622819351956586,9,has arrived at station ,A,0,1 bikes
+3.622819351956586,9,has rented bike at station ,A,0,0 bikes
+8.400564807576115,9,has returned bike at station ,A,7,0 bikes
+4.398870475440684,13,has arrived at station ,A,0,0 bikes
+5.043661766463152,13,has rented bike at station ,A,0,0 bikes
+8.421339443412819,13,has returned bike at station ,B,0,6 bikes
+5.485836491363422,15,has arrived at station ,A,0,0 bikes
+6.031022194173163,15,has rented bike at station ,A,4,0 bikes
+8.516598110041603,15,has returned bike at station ,A,7,0 bikes
+6.027154756376069,19,has arrived at station ,A,4,0 bikes
+8.516598110041603,19,has rented bike at station ,A,7,0 bikes
+10.013968961391273,19,has returned bike at station ,A,6,0 bikes
+5.783532402375732,17,has arrived at station ,A,2,0 bikes
+8.048531722327098,17,has rented bike at station ,A,7,0 bikes
+10.150761206139084,17,has returned bike at station ,A,6,0 bikes
+5.7648126502807004,16,has arrived at station ,A,1,0 bikes
+7.441475828637571,16,has rented bike at station ,A,8,0 bikes
+10.951555421835575,16,has returned bike at station ,A,5,0 bikes
+5.985845498588902,18,has arrived at station ,A,3,0 bikes
+8.400564807576115,18,has rented bike at station ,A,7,0 bikes
+11.648149058753338,18,has returned bike at station ,B,0,6 bikes
+6.736637643858858,22,has arrived at station ,A,6,0 bikes
+10.951555421835575,22,has rented bike at station ,A,5,0 bikes
+12.583492907795314,22,has returned bike at station ,B,0,7 bikes
+9.795454787538237,27,has arrived at station ,B,0,6 bikes
+9.795454787538237,27,has rented bike at station ,B,0,5 bikes
+12.706287286692865,27,has returned bike at station ,B,0,8 bikes
+6.67447248343232,21,has arrived at station ,A,5,0 bikes
+10.150761206139084,21,has rented bike at station ,A,6,0 bikes
+12.977347097486286,21,has returned bike at station ,A,6,0 bikes
+6.500391092995517,20,has arrived at station ,A,4,0 bikes
+10.013968961391273,20,has rented bike at station ,A,6,0 bikes
+13.495878958642187,20,has returned bike at station ,A,5,0 bikes
+6.795526998070727,23,has arrived at station ,A,7,0 bikes
+12.977347097486286,23,has rented bike at station ,A,6,0 bikes
+15.834201750225837,23,has returned bike at station ,A,12,0 bikes
+7.273117937130867,24,has arrived at station ,A,8,0 bikes
+13.495878958642187,24,has rented bike at station ,A,5,0 bikes
+16.83077196367621,24,has returned bike at station ,A,15,0 bikes
+8.128374100125143,25,has arrived at station ,A,7,0 bikes
+15.834201750225837,25,has rented bike at station ,A,12,0 bikes
+18.969627665039052,25,has returned bike at station ,B,0,9 bikes
+8.410700390225308,26,has arrived at station ,A,7,0 bikes
+16.83077196367621,26,has rented bike at station ,A,15,0 bikes
+20.019078963132685,26,has returned bike at station ,B,0,10 bikes
+20.369288906854752,52,has arrived at station ,B,0,10 bikes
+20.369288906854752,52,has rented bike at station ,B,0,9 bikes
+22.31317927547173,52,has returned bike at station ,B,0,10 bikes
+23.9152182845473,64,has arrived at station ,B,0,10 bikes
+23.9152182845473,64,has rented bike at station ,B,0,9 bikes
+26.439978335513096,64,has returned bike at station ,B,0,9 bikes
+23.946214963596223,65,has arrived at station ,B,0,9 bikes
+23.946214963596223,65,has rented bike at station ,B,0,8 bikes
+26.77008936151631,65,has returned bike at station ,B,0,9 bikes
+26.4716182818948,77,has arrived at station ,B,0,9 bikes
+26.4716182818948,77,has rented bike at station ,B,0,8 bikes
+28.951075613613735,77,has returned bike at station ,A,51,0 bikes
+10.10925828307681,28,has arrived at station ,A,6,0 bikes
+28.951075613613735,28,has rented bike at station ,A,51,0 bikes
+31.43972151412447,28,has returned bike at station ,B,0,9 bikes
+31.001102819946112,88,has arrived at station ,B,0,9 bikes
+31.001102819946112,88,has rented bike at station ,B,0,8 bikes
+34.90905473525752,88,has returned bike at station ,B,0,10 bikes
+35.03207570164513,97,has arrived at station ,B,0,10 bikes
+35.03207570164513,97,has rented bike at station ,B,0,9 bikes
+39.03602346135718,97,has returned bike at station ,B,0,10 bikes
+41.80959430804351,112,has arrived at station ,B,0,10 bikes
+41.80959430804351,112,has rented bike at station ,B,0,9 bikes
+44.80993529418726,112,has returned bike at station ,A,85,0 bikes
+11.636065461361092,29,has arrived at station ,A,5,0 bikes
+44.80993529418726,29,has rented bike at station ,A,85,0 bikes
+46.85938628325911,29,has returned bike at station ,A,90,0 bikes
+43.95786110809563,119,has arrived at station ,B,0,9 bikes
+43.95786110809563,119,has rented bike at station ,B,0,8 bikes
+46.88215647771716,119,has returned bike at station ,A,89,0 bikes
+13.544249778594205,31,has arrived at station ,A,5,0 bikes
+46.88215647771716,31,has rented bike at station ,A,89,0 bikes
+49.530815891745625,31,has returned bike at station ,A,94,0 bikes
+47.24840455561154,129,has arrived at station ,B,0,8 bikes
+47.24840455561154,129,has rented bike at station ,B,0,7 bikes
+50.3747066416446,129,has returned bike at station ,A,99,0 bikes
+12.03054665504609,30,has arrived at station ,A,6,0 bikes
+46.85938628325911,30,has rented bike at station ,A,90,0 bikes
+51.148249001726526,30,has returned bike at station ,B,0,8 bikes
+13.853852859973445,33,has arrived at station ,A,7,0 bikes
+50.3747066416446,33,has rented bike at station ,A,99,0 bikes
+52.73352228507317,33,has returned bike at station ,B,0,9 bikes
+13.74688531376418,32,has arrived at station ,A,6,0 bikes
+49.530815891745625,32,has rented bike at station ,A,94,0 bikes
+52.844784396886624,32,has returned bike at station ,B,0,10 bikes
+65.1670087818876,176,has arrived at station ,B,0,10 bikes
+65.1670087818876,176,has rented bike at station ,B,0,9 bikes
+69.06769568071385,176,has returned bike at station ,B,0,10 bikes
+71.82164882855034,196,has arrived at station ,B,0,10 bikes
+71.82164882855034,196,has rented bike at station ,B,0,9 bikes
+73.80988764068609,196,has returned bike at station ,B,0,10 bikes
+79.14728602797173,224,has arrived at station ,B,0,8 bikes
+79.14728602797173,224,has rented bike at station ,B,0,7 bikes
+80.3229122984818,224,has returned bike at station ,B,0,8 bikes
+78.60722386837605,221,has arrived at station ,B,0,9 bikes
+78.60722386837605,221,has rented bike at station ,B,0,8 bikes
+81.25902490438138,221,has returned bike at station ,B,0,8 bikes
+78.59275002586455,220,has arrived at station ,B,0,10 bikes
+78.59275002586455,220,has rented bike at station ,B,0,9 bikes
+81.84701620433425,220,has returned bike at station ,A,188,0 bikes
+14.60827492358976,34,has arrived at station ,A,8,0 bikes
+81.84701620433425,34,has rented bike at station ,A,188,0 bikes
+83.37003819040132,34,has returned bike at station ,B,0,9 bikes
+80.46402605407859,232,has arrived at station ,B,0,8 bikes
+80.46402605407859,232,has rented bike at station ,B,0,7 bikes
+84.20340150537025,232,has returned bike at station ,A,191,0 bikes
+14.634591118036196,35,has arrived at station ,A,9,0 bikes
+84.20340150537025,35,has rented bike at station ,A,191,0 bikes
+86.56887948527586,35,has returned bike at station ,A,198,0 bikes
+15.141189226700384,36,has arrived at station ,A,10,0 bikes
+86.56887948527586,36,has rented bike at station ,A,198,0 bikes
+88.6633577794832,36,has returned bike at station ,B,0,9 bikes
+88.38948821522905,254,has arrived at station ,B,0,9 bikes
+88.38948821522905,254,has rented bike at station ,B,0,8 bikes
+90.45743848069915,254,has returned bike at station ,B,0,9 bikes
+90.11979777894068,259,has arrived at station ,B,0,9 bikes
+90.11979777894068,259,has rented bike at station ,B,0,8 bikes
+92.00566463255306,259,has returned bike at station ,A,215,0 bikes
+15.685760325776554,37,has arrived at station ,A,11,0 bikes
+92.00566463255306,37,has rented bike at station ,A,215,0 bikes
+95.59055830280741,37,has returned bike at station ,A,218,0 bikes
+15.829354834279222,38,has arrived at station ,A,12,0 bikes
+95.59055830280741,38,has rented bike at station ,A,218,0 bikes
+98.38743225399655,38,has returned bike at station ,A,226,0 bikes
+95.58689574494795,274,has arrived at station ,B,0,9 bikes
+95.58689574494795,274,has rented bike at station ,B,0,8 bikes
+98.50562831301099,274,has returned bike at station ,B,0,8 bikes
+96.72842170571309,279,has arrived at station ,B,0,8 bikes
+96.72842170571309,279,has rented bike at station ,B,0,7 bikes
+99.75252133286396,279,has returned bike at station ,A,228,0 bikes
+0.8868081266711825,2,has arrived at station ,A,0,4 bikes
+0.8868081266711825,2,has rented bike at station ,A,0,3 bikes
+2.1696672870741116,2,has returned bike at station ,B,0,6 bikes
+0.6916729882282272,1,has arrived at station ,A,0,5 bikes
+0.6916729882282272,1,has rented bike at station ,A,0,4 bikes
+3.0933897442834337,1,has returned bike at station ,A,2,0 bikes
+1.2587592806860033,3,has arrived at station ,A,0,3 bikes
+1.2587592806860033,3,has rented bike at station ,A,0,2 bikes
+3.552255736728791,3,has returned bike at station ,A,1,0 bikes
+1.4880963002078595,4,has arrived at station ,A,0,2 bikes
+1.4880963002078595,4,has rented bike at station ,A,0,1 bikes
+3.9628931496172295,4,has returned bike at station ,B,0,6 bikes
+2.3666996624387426,8,has arrived at station ,B,0,6 bikes
+2.3666996624387426,8,has rented bike at station ,B,0,5 bikes
+4.377019775998317,8,has returned bike at station ,B,0,7 bikes
+2.208980371369358,5,has arrived at station ,A,0,1 bikes
+2.208980371369358,5,has rented bike at station ,A,0,0 bikes
+4.519925149734776,5,has returned bike at station ,A,3,0 bikes
+2.24690293698876,7,has arrived at station ,A,1,0 bikes
+3.552255736728791,7,has rented bike at station ,A,1,0 bikes
+5.584470567580885,7,has returned bike at station ,B,0,8 bikes
+2.2097248136478833,6,has arrived at station ,A,0,0 bikes
+3.0933897442834337,6,has rented bike at station ,A,2,0 bikes
+6.101272503424122,6,has returned bike at station ,A,6,0 bikes
+2.5996221089887572,9,has arrived at station ,A,2,0 bikes
+4.519925149734776,9,has rented bike at station ,A,3,0 bikes
+7.0099636453951835,9,has returned bike at station ,A,8,0 bikes
+3.6693578648665675,10,has arrived at station ,A,1,0 bikes
+6.101272503424122,10,has rented bike at station ,A,6,0 bikes
+7.1971470142187375,10,has returned bike at station ,A,9,0 bikes
+4.161714442598724,11,has arrived at station ,A,2,0 bikes
+7.0099636453951835,11,has rented bike at station ,A,8,0 bikes
+10.209506787802296,11,has returned bike at station ,A,12,0 bikes
+4.172301339315068,12,has arrived at station ,A,3,0 bikes
+7.1971470142187375,12,has rented bike at station ,A,9,0 bikes
+10.246765432547758,12,has returned bike at station ,B,0,6 bikes
+8.43159021346653,25,has arrived at station ,B,0,8 bikes
+8.43159021346653,25,has rented bike at station ,B,0,7 bikes
+10.998278989681783,25,has returned bike at station ,A,11,0 bikes
+9.459744608198045,27,has arrived at station ,B,0,7 bikes
+9.459744608198045,27,has rented bike at station ,B,0,6 bikes
+11.079026476521149,27,has returned bike at station ,B,0,7 bikes
+9.689878680400268,28,has arrived at station ,B,0,6 bikes
+9.689878680400268,28,has rented bike at station ,B,0,5 bikes
+12.326254579098709,28,has returned bike at station ,B,0,7 bikes
+4.5936450248970635,13,has arrived at station ,A,3,0 bikes
+10.209506787802296,13,has rented bike at station ,A,12,0 bikes
+12.975061625520889,13,has returned bike at station ,B,0,7 bikes
+4.94754708805236,14,has arrived at station ,A,4,0 bikes
+10.998278989681783,14,has rented bike at station ,A,11,0 bikes
+14.862927706848405,14,has returned bike at station ,A,22,0 bikes
+11.802328122122573,29,has arrived at station ,B,0,7 bikes
+11.802328122122573,29,has rented bike at station ,B,0,6 bikes
+16.051669826308174,29,has returned bike at station ,B,0,5 bikes
+12.386547491016115,31,has arrived at station ,B,0,7 bikes
+12.386547491016115,31,has rented bike at station ,B,0,6 bikes
+16.627295024708257,31,has returned bike at station ,A,27,0 bikes
+15.2681749098844,45,has arrived at station ,B,0,7 bikes
+15.2681749098844,45,has rented bike at station ,B,0,6 bikes
+17.872611256104936,45,has returned bike at station ,A,27,0 bikes
+5.772669658314634,15,has arrived at station ,A,5,0 bikes
+14.862927706848405,15,has rented bike at station ,A,22,0 bikes
+18.51432719824902,15,has returned bike at station ,A,27,0 bikes
+16.02734508622812,50,has arrived at station ,B,0,5 bikes
+16.02734508622812,50,has rented bike at station ,B,0,4 bikes
+18.718724867142353,50,has returned bike at station ,A,27,0 bikes
+16.001883691599254,49,has arrived at station ,B,0,6 bikes
+16.001883691599254,49,has rented bike at station ,B,0,5 bikes
+19.31893714894021,49,has returned bike at station ,A,26,0 bikes
+5.880989346314318,16,has arrived at station ,A,6,0 bikes
+16.627295024708257,16,has rented bike at station ,A,27,0 bikes
+20.792163181371055,16,has returned bike at station ,A,30,0 bikes
+6.339625681709815,17,has arrived at station ,A,6,0 bikes
+17.872611256104936,17,has rented bike at station ,A,27,0 bikes
+20.961780646951386,17,has returned bike at station ,B,0,5 bikes
+6.794028542153595,18,has arrived at station ,A,7,0 bikes
+18.51432719824902,18,has rented bike at station ,A,27,0 bikes
+21.84185515495541,18,has returned bike at station ,A,31,0 bikes
+7.069309043361458,20,has arrived at station ,A,8,0 bikes
+19.31893714894021,20,has rented bike at station ,A,26,0 bikes
+22.019870738079625,20,has returned bike at station ,A,30,0 bikes
+6.972250646195853,19,has arrived at station ,A,8,0 bikes
+18.718724867142353,19,has rented bike at station ,A,27,0 bikes
+22.196176938246154,19,has returned bike at station ,A,29,0 bikes
+7.212717163137783,22,has arrived at station ,A,9,0 bikes
+21.84185515495541,22,has rented bike at station ,A,31,0 bikes
+23.553380751524124,22,has returned bike at station ,A,28,0 bikes
+7.172902723221643,21,has arrived at station ,A,9,0 bikes
+20.792163181371055,21,has rented bike at station ,A,30,0 bikes
+23.707921054376833,21,has returned bike at station ,B,0,6 bikes
+20.49367150818327,59,has arrived at station ,B,0,5 bikes
+20.49367150818327,59,has rented bike at station ,B,0,4 bikes
+23.743180542826522,59,has returned bike at station ,A,27,0 bikes
+7.395212095717222,23,has arrived at station ,A,10,0 bikes
+22.019870738079625,23,has rented bike at station ,A,30,0 bikes
+24.652263421496897,23,has returned bike at station ,A,27,0 bikes
+7.813441614573172,24,has arrived at station ,A,11,0 bikes
+22.196176938246154,24,has rented bike at station ,A,29,0 bikes
+25.35108749664026,24,has returned bike at station ,B,0,6 bikes
+9.45370512126934,26,has arrived at station ,A,12,0 bikes
+23.553380751524124,26,has rented bike at station ,A,28,0 bikes
+26.881843454713724,26,has returned bike at station ,B,0,7 bikes
+12.519985699931867,32,has arrived at station ,A,12,0 bikes
+24.652263421496897,32,has rented bike at station ,A,27,0 bikes
+26.921818418066167,32,has returned bike at station ,B,0,8 bikes
+25.300686833862926,65,has arrived at station ,B,0,6 bikes
+25.300686833862926,65,has rented bike at station ,B,0,5 bikes
+27.09570237765423,65,has returned bike at station ,B,0,9 bikes
+12.234831611131762,30,has arrived at station ,A,11,0 bikes
+23.743180542826522,30,has rented bike at station ,A,27,0 bikes
+27.586021184091308,30,has returned bike at station ,B,0,10 bikes
+30.811324338871742,80,has arrived at station ,B,0,10 bikes
+30.811324338871742,80,has rented bike at station ,B,0,9 bikes
+32.763735982549825,80,has returned bike at station ,A,43,0 bikes
+12.686993558362419,33,has arrived at station ,A,13,0 bikes
+32.763735982549825,33,has rented bike at station ,A,43,0 bikes
+35.63449129607294,33,has returned bike at station ,A,49,0 bikes
+34.37052926808413,87,has arrived at station ,B,0,9 bikes
+34.37052926808413,87,has rented bike at station ,B,0,8 bikes
+37.75566100544513,87,has returned bike at station ,B,0,8 bikes
+12.733479029111503,34,has arrived at station ,A,14,0 bikes
+35.63449129607294,34,has rented bike at station ,A,49,0 bikes
+39.396755892257254,34,has returned bike at station ,B,0,9 bikes
+35.74111951609676,91,has arrived at station ,B,0,8 bikes
+35.74111951609676,91,has rented bike at station ,B,0,7 bikes
+39.482605698720036,91,has returned bike at station ,B,0,10 bikes
+40.24575008560877,99,has arrived at station ,B,0,10 bikes
+40.24575008560877,99,has rented bike at station ,B,0,9 bikes
+42.04327064264454,99,has returned bike at station ,B,0,10 bikes
+49.951846489050695,123,has arrived at station ,B,0,10 bikes
+49.951846489050695,123,has rented bike at station ,B,0,9 bikes
+54.42599462160739,123,has returned bike at station ,A,91,0 bikes
+12.967421496231179,35,has arrived at station ,A,15,0 bikes
+54.42599462160739,35,has rented bike at station ,A,91,0 bikes
+56.784130108491205,35,has returned bike at station ,A,94,0 bikes
+13.281613028388662,36,has arrived at station ,A,16,0 bikes
+56.784130108491205,36,has rented bike at station ,A,94,0 bikes
+59.68908668243249,36,has returned bike at station ,A,99,0 bikes
+57.931983238362285,143,has arrived at station ,B,0,9 bikes
+57.931983238362285,143,has rented bike at station ,B,0,8 bikes
+61.30800421200403,143,has returned bike at station ,B,0,8 bikes
+58.405837769291914,145,has arrived at station ,B,0,8 bikes
+58.405837769291914,145,has rented bike at station ,B,0,7 bikes
+61.97040638598865,145,has returned bike at station ,B,0,9 bikes
+13.349649115077792,37,has arrived at station ,A,17,0 bikes
+59.68908668243249,37,has rented bike at station ,A,99,0 bikes
+62.43111863761025,37,has returned bike at station ,A,103,0 bikes
+62.874473722086776,155,has arrived at station ,B,0,9 bikes
+62.874473722086776,155,has rented bike at station ,B,0,8 bikes
+66.26733526972318,155,has returned bike at station ,B,0,8 bikes
+14.210618129555234,38,has arrived at station ,A,18,0 bikes
+62.43111863761025,38,has rented bike at station ,A,103,0 bikes
+66.61256326925596,38,has returned bike at station ,A,111,0 bikes
+64.94702414418381,163,has arrived at station ,B,0,8 bikes
+64.94702414418381,163,has rented bike at station ,B,0,7 bikes
+67.9721353505394,163,has returned bike at station ,A,112,0 bikes
+14.38814611067496,39,has arrived at station ,A,19,0 bikes
+66.61256326925596,39,has rented bike at station ,A,111,0 bikes
+68.85928208662055,39,has returned bike at station ,B,0,9 bikes
+14.457058674363577,40,has arrived at station ,A,20,0 bikes
+67.9721353505394,40,has rented bike at station ,A,112,0 bikes
+69.30158437820516,40,has returned bike at station ,B,0,10 bikes
+72.33346450374275,175,has arrived at station ,B,0,10 bikes
+72.33346450374275,175,has rented bike at station ,B,0,9 bikes
+75.74628610060441,175,has returned bike at station ,A,126,0 bikes
+14.675752758935511,41,has arrived at station ,A,21,0 bikes
+75.74628610060441,41,has rented bike at station ,A,126,0 bikes
+79.467581429447,41,has returned bike at station ,B,0,10 bikes
+80.47846901354657,202,has arrived at station ,B,0,10 bikes
+80.47846901354657,202,has rented bike at station ,B,0,9 bikes
+83.70116735930253,202,has returned bike at station ,A,148,0 bikes
+14.714760217832653,42,has arrived at station ,A,22,0 bikes
+83.70116735930253,42,has rented bike at station ,A,148,0 bikes
+87.45809975771134,42,has returned bike at station ,B,0,10 bikes
+88.58105731898961,218,has arrived at station ,B,0,10 bikes
+88.58105731898961,218,has rented bike at station ,B,0,9 bikes
+91.36821440771791,218,has returned bike at station ,A,164,0 bikes
+15.005060121779692,43,has arrived at station ,A,22,0 bikes
+91.36821440771791,43,has rented bike at station ,A,164,0 bikes
+95.47804639461575,43,has returned bike at station ,A,174,0 bikes
+94.63662018951037,236,has arrived at station ,B,0,9 bikes
+94.63662018951037,236,has rented bike at station ,B,0,8 bikes
+96.61571470945367,236,has returned bike at station ,B,0,8 bikes
+96.2576557548275,239,has arrived at station ,B,0,8 bikes
+96.2576557548275,239,has rented bike at station ,B,0,7 bikes
+98.56677976637162,239,has returned bike at station ,A,178,0 bikes
+15.208775773747352,44,has arrived at station ,A,23,0 bikes
+95.47804639461575,44,has rented bike at station ,A,174,0 bikes
+98.62401058553115,44,has returned bike at station ,A,177,0 bikes
+96.75378722949051,240,has arrived at station ,B,0,8 bikes
+96.75378722949051,240,has rented bike at station ,B,0,7 bikes
+98.76101122935414,240,has returned bike at station ,A,176,0 bikes
